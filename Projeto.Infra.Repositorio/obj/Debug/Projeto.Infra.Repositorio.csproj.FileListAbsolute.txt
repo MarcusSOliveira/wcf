@@ -1,0 +1,14 @@
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Infra.Repositorio.dll.config
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Infra.Repositorio.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Infra.Repositorio.pdb
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\EntityFramework.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Entities.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Entities.pdb
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\EntityFramework.xml
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\obj\Debug\Projeto.Infra.Repositorio.csprojResolveAssemblyReference.cache
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\obj\Debug\Projeto.Infra.Repositorio.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\obj\Debug\Projeto.Infra.Repositorio.pdb
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Common.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Infra.Repositorio\bin\Debug\Projeto.Common.pdb
