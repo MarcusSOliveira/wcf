@@ -1,0 +1,44 @@
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\WcfService.dll.config
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\WcfService.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\WcfService.pdb
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\obj\Debug\Projeto.Services.csprojResolveAssemblyReference.cache
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\obj\Debug\WcfService.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\obj\Debug\WcfService.pdb
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\EntityFramework.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\EntityFramework.SqlServer.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\EntityFramework.xml
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\EntityFramework.SqlServer.xml
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Ninject.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Ninject.Extensions.Wcf.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Ninject.Web.Common.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Projeto.Common.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Projeto.Entities.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Projeto.Infra.Repositorio.dll
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Projeto.Common.pdb
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Projeto.Entities.pdb
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Projeto.Infra.Repositorio.pdb
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Ninject.xml
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Ninject.Extensions.Wcf.xml
+D:\C#Avançado\Aula11\WCF\WCF\WcfService\bin\Ninject.Web.Common.xml
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\WcfService.dll.config
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\WcfService.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\WcfService.pdb
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\EntityFramework.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\EntityFramework.SqlServer.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Ninject.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Ninject.Extensions.Wcf.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Ninject.Web.Common.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Projeto.Common.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Projeto.Entities.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Projeto.Infra.Repositorio.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Projeto.Common.pdb
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Projeto.Entities.pdb
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Projeto.Infra.Repositorio.pdb
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\EntityFramework.xml
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\EntityFramework.SqlServer.xml
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Ninject.xml
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Ninject.Extensions.Wcf.xml
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\bin\Ninject.Web.Common.xml
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\obj\Debug\Projeto.Services.csprojResolveAssemblyReference.cache
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\obj\Debug\WcfService.dll
+D:\C_sharp\Aula C# - 2016\2016b\Aula11\WCF\WCF\WcfService\obj\Debug\WcfService.pdb
