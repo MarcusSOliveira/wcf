@@ -1,0 +1,5 @@
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Common\bin\Debug\Projeto.Common.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Common\bin\Debug\Projeto.Common.pdb
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Common\obj\Debug\Projeto.Common.csprojResolveAssemblyReference.cache
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Common\obj\Debug\Projeto.Common.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Common\obj\Debug\Projeto.Common.pdb

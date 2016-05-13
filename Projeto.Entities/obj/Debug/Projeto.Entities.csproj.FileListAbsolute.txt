@@ -1,0 +1,5 @@
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Entities\obj\Debug\Projeto.Entities.csprojResolveAssemblyReference.cache
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+D:\C#Avançado\Aula11\WCF\WCF\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
